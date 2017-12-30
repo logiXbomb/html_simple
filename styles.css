@@ -19,6 +19,7 @@ body > div {
 .kitten-teaser {
     display: flex;
     flex-direction: column;
+    margin: 15px;
 }
 
 .kitten-teaser > img {
