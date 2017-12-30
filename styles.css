@@ -35,4 +35,6 @@ footer {
     justify-content: center;
     position: absolute;
     width: 100%;
+    font-size: 2rem;
+    padding-bottom: 20px;
 }
